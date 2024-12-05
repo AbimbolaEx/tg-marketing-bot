@@ -1,4 +1,5 @@
-python-telegram-bot
-groq
-python-dotenv
-PyPDF2
+python-telegram-bot==20.7
+groq==0.3.1
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+nest_asyncio==1.5.8
