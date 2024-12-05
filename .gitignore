@@ -1,4 +1,22 @@
+# Environment files
 .env
-venv/
+*.env
+.env.local
+
+# Python cache files
+__pycache__/
 *.pyc
-**/__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Deployment logs
+*.log
